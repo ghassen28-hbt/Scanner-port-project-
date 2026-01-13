@@ -1,17 +1,17 @@
-# 🔍 Port Scanner – Python GUI
+#  Port Scanner – Python GUI
 
 Un **scanner de ports simple et éducatif** développé en **Python**, avec une **interface graphique Tkinter**.  
 Ce projet a pour objectif d’apprendre les **bases de la cybersécurité**, du **réseau** et de la **programmation Python**.
 
 ---
 
-## 📌 Objectifs du projet
+##  Objectifs du projet
 
 - Comprendre le fonctionnement des **ports réseau**
 - Apprendre l’utilisation du module **socket**
 - Découvrir les bases du **port scanning**
 - Créer une **interface graphique** simple avec Tkinter
-- Distribuer une application Python sous forme de fichier `.exe`
+
 
 ---
 
@@ -28,7 +28,7 @@ Ce projet a pour objectif d’apprendre les **bases de la cybersécurité**, du 
 
 ---
 
-## 🖥️ Interface graphique
+## Interface graphique
 
 L’utilisateur peut :
 - Entrer l’adresse IP ou le nom d’hôte
@@ -38,7 +38,7 @@ L’utilisateur peut :
 
 ---
 
-## 🚀 Exécution du programme
+##  Exécution du programme
 
 ### Option 1 : Exécuter avec Python
 
